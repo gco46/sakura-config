@@ -1,0 +1,17 @@
+;プラグイン定義ファイルv1
+[Plugin]
+Id=net.sf.users.moca_skr.comp.ctags
+Name=ctags補完
+Description=ctags入力補完
+Type=wsh
+Version=0.2
+Url=https://sourceforge.net/projects/sakura-editor/
+Author=Moca
+
+[Wsh]
+UseCache=1
+
+[Plug]
+Complement=compCTags.js
+Complement.Label=ctags
+

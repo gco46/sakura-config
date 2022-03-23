@@ -1,0 +1,8 @@
+{
+    "project": {
+        "proj_name": {
+            "dir_path": "absolute/path/to/project/directory",
+            "start_file": "startfile.c"
+        }
+    }
+}
