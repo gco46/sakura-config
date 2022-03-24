@@ -98,6 +98,7 @@ class ToggleSrc():
 
 
 class SearchSrc():
+    # TODO: 対象拡張子の情報は設定ファイルに持たせる
     SRC_EXT = [
         ".c",
         ".h",
