@@ -19,7 +19,7 @@
 ## Requirement
 
 - Sakura Editor == 2.4.1
-- python >= 3.8.x
+- python >= 3.8.4
 
 ## Install
 
