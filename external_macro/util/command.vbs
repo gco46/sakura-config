@@ -1,6 +1,6 @@
 Option Explicit
 
-const SAKURA_UTIL = "sakura_util.py"
+const SAKURA_UTIL = "util/sakura_util.py"
 
 function search_command(tgt_path, pattern)
 	' SAKURA_UTILの searchコマンド実行
